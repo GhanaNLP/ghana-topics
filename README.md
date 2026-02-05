@@ -4,17 +4,8 @@ A collaborative public information project to identify and visualize the top 20 
 
 ## Project Overview
 
-The goal is to scrape at least 5 major Ghanaian news outlets, process the text data, and perform keyword extraction to see what dominated the headlines and reports in 2025.
+The goal is to scrape at least 5 major Ghanaian news outlets, process the text data, and perform keyword extraction to see what topics dominated the news in 2025.
 
-
-------
-
-## Tech Stack
-
-- **Language:** Python 3.x
-- **Scraping:** `newspaper3k` (for article parsing) or `BeautifulSoup`/`Scrapy`.
-- **NLP & Tokenization:** `spaCy` or `NLTK`.
-- **Data Handling:** `pandas`.
 
 ------
 
