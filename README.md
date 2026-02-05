@@ -37,19 +37,11 @@ Thanks to our contributors
 
 ------
 
-## Scraping Guidelines
+## Results
 
-When scraping your assigned site, please ensure:
-
-- Only articles published between **January 1, 2025, and December 31, 2025**, are included.
-- Data is saved in a CSV format with the following fields: `date`, `title`, `sentence`, and `url`.
-
-### 3. Processing (Tokenization)
-
-We are using **spaCy** or **nltk** for tokenisation.
 
 ------
 
-## Communication
+## Contact
 
-If you have any questions or want to contribute to the project, please send an email to natural.language.processing.gh@gmail.com.
+If you have any questions, please send an email to natural.language.processing.gh@gmail.com.
