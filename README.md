@@ -32,7 +32,7 @@ Thanks to our contributors
 
 ## Results
 
-The following keywords appeared most frequently in Ghanaian news in 2025, each appearing in in 980 articles on average. The most dominant topic was **Galamsey/illegal mining**.
+The following keywords appeared most frequently in Ghanaian news in 2025, each appearing in in 980 articles on average. The most dominant topic was **Galamsey/illegal mining**, which appeared in over 8000 articles.
 
 | **Phrase**                 | **Count** |
 | -------------------------- | --------- |
