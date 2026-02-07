@@ -1,6 +1,6 @@
-# Ghana Topics 2025
+# Ghana Topics
 
-A collaborative public information project to identify key topics that appeared frequently in Ghanaian news throughout 2025.
+A collaborative public information project to identify key topics that appeared frequently in Ghanaian news.
 
 ## Project Overview
 
